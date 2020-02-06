@@ -1,5 +1,5 @@
 # Spatial-Analysis-Portfolio
-This Repository contains a portfolio of eight research reports in the area of spatial analysis along with the datasets that I used to create them. 
+This Repository contains a portfolio of nine research reports in the area of spatial analysis along with the datasets that I used to create them. 
 
 "Analysis of Vermont Social Survey and US Census Data"
   - VT_SOCSURVEY.sav is a social survey of Vermont residents,
